@@ -92,10 +92,6 @@ Once you have enough information, write the spec using the structure below.
 
 ## After writing
 
-Save the spec to `.claude/specs/<feature-slug>/spec.md` and commit:
-```
-git add .claude/specs/<feature-slug>/spec.md
-git commit -m "docs(spec): draft <feature name>"
-```
+Save the spec to `.claude/specs/<feature-slug>/spec.md`.
 
 Tell the user the next step is **refine-spec** to ground the claims against the codebase.

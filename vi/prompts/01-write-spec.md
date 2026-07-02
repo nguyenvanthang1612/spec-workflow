@@ -92,10 +92,6 @@ Sau khi có đủ thông tin, viết spec theo cấu trúc dưới đây.
 
 ## Sau khi viết
 
-Lưu file spec vào `.claude/specs/<feature-slug>/spec.md` và commit:
-```
-git add .claude/specs/<feature-slug>/spec.md
-git commit -m "docs(spec): draft <feature name>"
-```
+Lưu file spec vào `.claude/specs/<feature-slug>/spec.md`.
 
 Nói rõ với user rằng bước tiếp theo là **refine-spec** để ground claims vào codebase.
